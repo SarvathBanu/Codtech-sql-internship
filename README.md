@@ -4,6 +4,6 @@ This task contains SQL queries for creating tables and performing different type
 
 All queries are available in:
 
-Task-1-Joins/task1.sql
+Task-1-Joins/task1.sql 
 
 
